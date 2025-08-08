@@ -8924,7 +8924,8 @@ Here are some ideas to get you started:
 <div align="center">
 
  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fqjtbmomh46gnt7736iiyrwyku&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fqjtbmomh46gnt7736iiyrwyku&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fqjtbmomh46gnt7736iiyrwyku&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fqjtbmomh46gnt7736iiyrwyku&redirect=true)
+
 
 </div>
 
