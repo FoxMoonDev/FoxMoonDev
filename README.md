@@ -8899,7 +8899,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/798280345719799819/1245630380024004650/8s6vsz.gif?ex=66597331&is=665821b1&hm=a1e2458beaf5430bb83a6b5c9d143d25eaca723bef3aeba827c28574f7804923&"  />
+<img align="left" height="150" src="https://cdn.discordapp.com/attachments/798280345719799819/1245630380024004650/8s6vsz.gif?ex=68979871&is=689646f1&hm=233ec346d4154bebd68520e82886599032c190de581bd838a11883adfe10ce42&"  />
 
 ###
 
