@@ -8917,7 +8917,7 @@ Here are some ideas to get you started:
 
 <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/798280345719799819/1245665018029146183/Arte_De_Jogos.gif?ex=66599373&is=665841f3&hm=c8d23159f50c552dfd2b2cbc9e09ce9236e13c6ada55afc4540bb42a9bb41bcd&" alt="Imagem">
+  <img align="center" src="https://cdn.discordapp.com/attachments/798280345719799819/1403518113860816996/Arte_De_Jogos.gif?ex=6897d79a&is=6896861a&hm=7ce261794afe5a9d154bc85030fe14e1dadae2bcb22905467ddf8e19dd64f897&" alt="Imagem">
 </p>
 
 ###
